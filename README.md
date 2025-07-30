@@ -17,7 +17,7 @@
 - Enhancing my design-to-code workflow
 - Projects that combine electronics with web-based dashboards
 
-([![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soulful-Sharanya116)](https://github.com/Soulful-Sharanya116/github-readme-stats))
+[![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soulful-Sharanya116)](https://github.com/Soulful-Sharanya116/github-readme-stats)
 
 📫 **Let’s Connect:**
 - 💼 [LinkedIn](www.linkedin.com/in/sharanya-sasmal)
