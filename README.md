@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Sharanya
 
-<!--
-**Soulful-Sharanya116/Soulful-Sharanya116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a second-year student pursuing **Electronics and Computer Engineering** at **Vellore Institute of Technology, Chennai**.
 
-Here are some ideas to get you started:
+💡 I’m passionate about blending creativity with technology—my primary interests lie in:
+- 🎨 **UI/UX Design**  
+- 🌐 **Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm constantly learning and exploring the world of front-end technologies, design systems, responsive layouts, and creating user-centric web experiences.
+
+🔧 **Languages & Tools I’m Learning/Using:**
+- HTML5, CSS3, JavaScript
+- Figma
+
+💭 Currently learning more about:
+- Building interactive websites with intuitive UI
+- Enhancing my design-to-code workflow
+- Projects that combine electronics with web-based dashboards
+
+([![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soulful-Sharanya116)](https://github.com/Soulful-Sharanya116/github-readme-stats))
+
+📫 **Let’s Connect:**
+- 💼 [LinkedIn](www.linkedin.com/in/sharanya-sasmal)
+- ✉️ Email: *contactsharanya116@gmail.com*
+
+Thanks for stopping by! 😊  
+
