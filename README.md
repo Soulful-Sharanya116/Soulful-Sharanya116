@@ -1,5 +1,5 @@
 ![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:FF6F61,100:6A5ACD&height=5&section=footer)
-
+![logo](https://github.com/Soulful-Sharanya116/Soulful-Sharanya116/blob/main/image.png)
 
 
 <h3 align="center">👋 Hi there! I'm Sharanya</h3> 
