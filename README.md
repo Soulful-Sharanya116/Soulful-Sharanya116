@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sharanyahttps://github.com/Soulful-Sharanya116/Soulful-Sharanya116
+# 👋 Hi there! I'm Sharanya
 
 🎓 I'm currently a second-year student pursuing **Electronics and Computer Engineering** at **Vellore Institute of Technology, Chennai**.
 
