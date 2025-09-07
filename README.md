@@ -1,4 +1,9 @@
-# 👋 Hi there! I'm Sharanya
+![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:FF6F61,100:6A5ACD&height=5&section=footer)
+
+
+
+<h3 align="center">👋 Hi there! I'm Sharanya</h3> 
+<h3 align="center">A frontend developer who loves turning clean UI/UX designs into seamless digital experiences ✨</h3>
 
 🎓 I'm currently a second-year student pursuing **Electronics and Computer Engineering** at **Vellore Institute of Technology, Chennai**.
 
@@ -19,8 +24,6 @@
 
 📫 **Let’s Connect:**
 - ✉️ Email: *contactsharanya116@gmail.com* 
-
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulful-sharanya116&label=Profile%20views&color=0e75b6&style=flat" alt="soulful-sharanya116" /> </p>
 
