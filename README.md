@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Sharanya
+# 👋 Hi there! I'm Sharanyahttps://github.com/Soulful-Sharanya116/Soulful-Sharanya116
 
 🎓 I'm currently a second-year student pursuing **Electronics and Computer Engineering** at **Vellore Institute of Technology, Chennai**.
 
@@ -21,5 +21,7 @@
 - 💼 [LinkedIn](www.linkedin.com/in/sharanya-sasmal)
 - ✉️ Email: *contactsharanya116@gmail.com*
 
-Thanks for stopping by! 😊  
+Thanks for stopping by! 😊 
+
+[![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soulful-Sharanya116)](https://github.com/Soulful-Sharanya116/github-readme-stats)
 
