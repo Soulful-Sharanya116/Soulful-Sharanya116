@@ -23,6 +23,6 @@
 
 Thanks for stopping by! 😊 
 
-[![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soulful-Sharanya116)](https://github.com/Soulful-Sharanya116/github-readme-stats)
 ![Sharanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soulful-Sharanya116&show_icons=true&theme=github_dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soulful-Sharanya116&layout=donut)](https://github.com/Soulful-Sharanya116/github-readme-stats)
