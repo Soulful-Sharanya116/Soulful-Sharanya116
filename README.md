@@ -2,150 +2,310 @@
 
 <img src="./github-banner.png" alt="Sharanya Sasmal GitHub Banner" width="100%"/>
 
-<br/>
+<br><br>
 
-👋 Hi, I'm Sharanya Sasmal
+# 👋 Hi there! I'm Sharanya
 
-Electronics & Computer Engineering Student @ VIT Chennai
+### ✨ Frontend Developer • UI/UX Designer • Web Enthusiast
 
-Frontend Development • UI/UX Design • Web Development • Emerging Technologies
+<p>
+  Turning ideas into clean, intuitive and meaningful digital experiences.
+</p>
 
-<br/>
+<br>
 
 <a href="https://linkedin.com/in/sharanya-sasmal">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="mailto:contactsharanya116@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/Soulful-Sharanya116">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=soulful-sharanya116&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=soulful-sharanya116&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views"/>
 
 </div>
 
-🌷 About Me
+---
 
-I'm a B.Tech student in Electronics and Computer Engineering at Vellore Institute of Technology, Chennai, interested in creating digital experiences that are both visually clean and easy to use.
+## 🌷 About Me
 
-My primary interests are frontend development, UI/UX design, and web technologies. I enjoy taking an idea or design and turning it into a functional, responsive interface while paying attention to usability and visual details.
+🎓 I'm a **second-year Electronics and Computer Engineering student at Vellore Institute of Technology, Chennai**.
 
-I'm currently strengthening my development and design skills through hands-on projects, academic work, and continuous experimentation with new technologies. I'm especially interested in projects that bring together technology, creativity, and real-world problem solving.
+💡 I'm passionate about **frontend development, UI/UX design, and web technologies**, with a focus on creating interfaces that are both visually appealing and easy to use.
 
-✨ Design with purpose. Build with curiosity. Keep learning.
+🎨 I enjoy turning ideas and designs into **responsive, interactive and user-friendly digital experiences**.
 
-💻 What I'm Working On
+🔧 I'm continuously learning through **hands-on projects, experimentation and academic work**, while exploring how technology can be used to solve real-world problems.
 
-🎨 Designing clean and intuitive UI/UX experiences
+🚀 I'm particularly interested in projects that bring together **creativity, technology and practical problem-solving**.
 
-🌐 Building responsive and user-focused web interfaces
+💭 **Currently:** Learning • Building • Designing • Exploring
 
-🔧 Exploring the connection between electronics and web-based applications
+<br>
 
-📚 Improving my problem-solving and development workflow
+> ✨ *Design with purpose. Build with curiosity. Keep learning.*
 
-🚀 Turning ideas into practical projects and continuously learning from them
+---
 
-🛠️ Tech Stack
-
-Web & Design
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" title="Figma"/>
-</p>
-
-Programming & Databases
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB" title="MATLAB"/>
-</p>
-
-Tools & Platforms
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" alt="Blender" title="Blender"/>
-</p>
-
-📌 Featured Interests
+## 💫 What I'm Interested In
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-🎨 UI/UX Design
+### 🎨 UI/UX Design
 
-Creating interfaces with a focus on:
-
-Visual hierarchy
-
-Usability
-
-Responsive layouts
-
-Consistent design systems
-
-Design-to-code workflows
+- Clean & intuitive interfaces
+- Visual hierarchy
+- Responsive layouts
+- Design systems
+- Wireframing & prototyping
+- Design-to-code workflow
 
 </td>
+
 <td width="50%" valign="top">
 
-🌐 Web Development
+### 🌐 Web Development
 
-Interested in:
-
-Responsive websites
-
-Interactive interfaces
-
-Clean frontend architecture
-
-User-centered experiences
-
-Practical web-based solutions
+- Responsive websites
+- Interactive interfaces
+- User-centric experiences
+- Frontend development
+- Clean UI implementation
+- Practical web solutions
 
 </td>
+
 </tr>
 </table>
 
-📊 GitHub Activity
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Web & Design
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+### 💻 Programming & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
+
+---
+
+# 🚀 Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+Building responsive and interactive web experiences with a focus on clean interfaces, usability and visual design.
+
+**Focus**
+
+`Frontend` • `Responsive Design` • `UI` • `UX`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 UI/UX Projects
+
+Exploring the process of turning ideas into polished digital experiences through thoughtful interface and interaction design.
+
+**Focus**
+
+`Figma` • `Wireframes` • `Prototyping` • `Design`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ Electronics + Web
+
+Exploring projects that connect electronics with software and web-based interfaces.
+
+**Focus**
+
+`Electronics` • `Arduino` • `Web Dashboards`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 Future Builds
+
+Always experimenting with new ideas, technologies and ways to create useful digital products.
+
+**Focus**
+
+`Learn` • `Build` • `Experiment` • `Improve`
+
+</td>
+
+</tr>
+</table>
+
+> 🚧 **More projects coming soon — currently learning, building and experimenting!**
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=soulful-sharanya116&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=soulful-sharanya116&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" height="180" alt="GitHub Stats"/>
 
-<br/><br/>
+&nbsp;&nbsp;
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soulful-sharanya116&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulful-sharanya116&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="180" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=soulful-sharanya116&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
 
-🤝 Let's Connect
+---
 
-I'm always open to learning, collaborating, building projects, and connecting with people interested in technology and design.
+# 📈 Contribution Graph
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soulful-sharanya116&bg_color=0d1117&color=ff69b4&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 🌱 My GitHub Journey
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<h3>💡</h3>
+<b>LEARN</b>
+<br>
+Explore new ideas
+</td>
+
+<td align="center">
+<h3>🎨</h3>
+<b>DESIGN</b>
+<br>
+Create experiences
+</td>
+
+<td align="center">
+<h3>🚀</h3>
+<b>BUILD</b>
+<br>
+Turn ideas into projects
+</td>
+
+<td align="center">
+<h3>✨</h3>
+<b>GROW</b>
+<br>
+Keep improving
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 Currently
+
+<div align="center">
+
+| Area | Status |
+|:---|:---|
+| 🎨 UI/UX Design | 🌱 Learning & Creating |
+| 🌐 Web Development | 🚀 Building Projects |
+| 💻 Programming | 📚 Strengthening Skills |
+| 🔬 New Technologies | 🔍 Exploring |
+
+</div>
+
+---
+
+# 🤝 Let's Connect!
+
+<div align="center">
+
+<p>
+I'm always open to learning, collaborating, building projects,
+and connecting with people interested in technology and design.
+</p>
+
+<br>
 
 <a href="https://linkedin.com/in/sharanya-sasmal">
   <img src="https://img.shields.io/badge/LinkedIn-Sharanya%20Sasmal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:contactsharanya116@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+<a href="https://instagram.com/spectral_sharanya2006">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<br/><br/>
+<a href="https://auth.geeksforgeeks.org/user/contactshak8f5">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
-⭐ Thanks for visiting my profile!
+<a href="https://discord.gg/sharanya2006">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="mailto:contactsharanya116@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+### 💖 Thanks for stopping by!
+
+✨ **Keep learning • Keep creating • Keep building** ✨
 
 </div>
