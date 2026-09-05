@@ -53,3 +53,19 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push origin main
+
+      - name: Generate Contribution Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=react-dark&bg_color=0d1117&color=ffffff&line=ff69b4&point=8b5cf6&area=true&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Contribution Graph
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
