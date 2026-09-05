@@ -18,6 +18,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Sync with main
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -45,10 +50,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-
-          git pull --rebase origin main
-
-          git push
+          git push origin main
