@@ -1,50 +1,155 @@
-![Gradient Line](https://capsule-render.vercel.app/api?type=rect&color=0:FF6F61,100:6A5ACD&height=5&section=footer)
-![logo](https://github.com/Soulful-Sharanya116/Soulful-Sharanya116/blob/main/image.png)
+<div align="center">
 
+<img src="./github-banner.png" alt="Sharanya Sasmal GitHub Banner" width="100%"/>
 
-<h3 align="center">👋 Hi there! I'm Sharanya</h3> 
-<h3 align="center">A frontend developer who loves turning clean UI/UX designs into seamless digital experiences ✨</h3>
+<br/>
 
-🎓 I'm currently a second-year student pursuing **Electronics and Computer Engineering** at **Vellore Institute of Technology, Chennai**.
+# 👋 Hi, I'm Sharanya Sasmal
 
-💡 I’m passionate about blending creativity with technology—my primary interests lie in:
-- 🎨 **UI/UX Design**  
-- 🌐 **Web Development**
+### Electronics & Computer Engineering Student @ VIT Chennai
 
-🚀 I'm constantly learning and exploring the world of front-end technologies, design systems, responsive layouts, and creating user-centric web experiences.
+**Frontend Development • UI/UX Design • Web Development • Emerging Technologies**
 
-🔧 **Languages & Tools I’m Learning/Using:**
-- HTML5, CSS3, JavaScript
-- Figma
+<br/>
 
-💭 Currently learning more about:
-- Building interactive websites with intuitive UI
-- Enhancing my design-to-code workflow
-- Projects that combine electronics with web-based dashboards
+<a href="https://linkedin.com/in/sharanya-sasmal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:contactsharanya116@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-📫 **Let’s Connect:**
-- ✉️ Email: *contactsharanya116@gmail.com* 
+<br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soulful-sharanya116&label=Profile%20views&color=0e75b6&style=flat" alt="soulful-sharanya116" /> </p>
+<img src="https://komarev.com/ghpvc/?username=soulful-sharanya116&label=Profile%20Views&color=6A5ACD&style=flat-square" alt="Profile views"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soulful-sharanya116" alt="soulful-sharanya116" /></a> </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharanya-sasmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharanya-sasmal" height="30" width="40" /></a>
-<a href="https://instagram.com/spectral_sharanya2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spectral_sharanya2006" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/contactshak8f5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="contactshak8f5" height="30" width="40" /></a>
-<a href="https://discord.gg/sharanya2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sharanya2006" height="30" width="40" /></a>
+---
+
+## 🌷 About Me
+
+I'm a **B.Tech student in Electronics and Computer Engineering at Vellore Institute of Technology, Chennai**, interested in creating digital experiences that are both **visually clean and easy to use**.
+
+My primary interests are **frontend development, UI/UX design, and web technologies**. I enjoy taking an idea or design and turning it into a functional, responsive interface while paying attention to usability and visual details.
+
+I'm currently strengthening my development and design skills through **hands-on projects, academic work, and continuous experimentation with new technologies**. I'm especially interested in projects that bring together **technology, creativity, and real-world problem solving**.
+
+> ✨ *Design with purpose. Build with curiosity. Keep learning.*
+
+---
+
+## 💻 What I'm Working On
+
+- 🎨 Designing clean and intuitive **UI/UX experiences**
+- 🌐 Building responsive and user-focused **web interfaces**
+- 🔧 Exploring the connection between **electronics and web-based applications**
+- 📚 Improving my **problem-solving and development workflow**
+- 🚀 Turning ideas into practical projects and continuously learning from them
+
+---
+
+## 🛠️ Tech Stack
+
+### Web & Design
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Programming & Databases
+<p>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soulful-sharanya116&show_icons=true&locale=en&layout=compact" alt="soulful-sharanya116" /></p>
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soulful-sharanya116&show_icons=true&locale=en" alt="soulful-sharanya116" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soulful-sharanya116&" alt="soulful-sharanya116" /></p>
+## 📌 Featured Interests
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Thanks for stopping by! 😊
+### 🎨 UI/UX Design
+Creating interfaces with a focus on:
+- Visual hierarchy
+- Usability
+- Responsive layouts
+- Consistent design systems
+- Design-to-code workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+Interested in:
+- Responsive websites
+- Interactive interfaces
+- Clean frontend architecture
+- User-centered experiences
+- Practical web-based solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soulful-sharanya116&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulful-sharanya116&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=soulful-sharanya116&hide_border=true" height="165" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=soulful-sharanya116&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to **learning, collaborating, building projects, and connecting with people interested in technology and design**.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sharanya-sasmal">
+  <img src="https://img.shields.io/badge/LinkedIn-Sharanya%20Sasmal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:contactsharanya116@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
