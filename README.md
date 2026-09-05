@@ -18,13 +18,16 @@
 
 🌱 **Always learning, building, and looking for opportunities to grow.**
 
-<br>
+</div>
+
+---
 
 <table>
 <tr>
-<td width="65%" valign="top">
 
-## 💻 Tech Stack
+<td width="68%" valign="top">
+
+# 🛠️ Tech Stack
 
 ### 🌐 Web & Design
 
@@ -56,22 +59,28 @@
 
 </td>
 
-<td width="35%" valign="top">
+<td width="32%" valign="top">
 
-<br>
+<br><br>
 
-> ### 💗
+> ## 💗
+>
 > **Good design turns ideas into opportunities.**
 
 <br>
 
-🌸 **Design**  
-💻 **Code**  
-🎨 **Create**  
-📚 **Learn**  
+🌸 **Design**
+
+💻 **Code**
+
+🎨 **Create**
+
+📚 **Learn**
+
 🚀 **Grow**
 
 </td>
+
 </tr>
 </table>
 
@@ -81,13 +90,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=soulful-sharanya116&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats">
+<a href="https://github.com/Soulful-Sharanya116">
+<img src="./profile/stats.svg" alt="GitHub Stats" height="190">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulful-sharanya116&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" alt="Top Languages">
+&nbsp;&nbsp;
+
+<a href="https://github.com/Soulful-Sharanya116">
+<img src="./profile/top-langs.svg" alt="Top Languages" height="190">
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=soulful-sharanya116&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak">
+<img src="./profile/streak.svg" alt="GitHub Streak" height="190">
 
 </div>
 
@@ -103,7 +118,7 @@
 
 ---
 
-# 🌱 GitHub Journey
+# 🌱 My GitHub Journey
 
 <div align="center">
 
@@ -112,7 +127,8 @@
 
 <td align="center" width="25%">
 
-### 💡
+## 💡
+
 ### LEARN
 
 Explore new ideas
@@ -121,7 +137,8 @@ Explore new ideas
 
 <td align="center" width="25%">
 
-### 🎨
+## 🎨
+
 ### DESIGN
 
 Create experiences
@@ -130,7 +147,8 @@ Create experiences
 
 <td align="center" width="25%">
 
-### 🚀
+## 🚀
+
 ### BUILD
 
 Turn ideas into projects
@@ -139,7 +157,8 @@ Turn ideas into projects
 
 <td align="center" width="25%">
 
-### ✨
+## ✨
+
 ### GROW
 
 Keep improving
@@ -153,13 +172,69 @@ Keep improving
 
 ---
 
-# 🤝 Let's Connect
-
-<p>
-Feel free to reach out for collaborations, opportunities, or just a chat about tech and design!
-</p>
+# 🚀 What I'm Exploring
 
 <div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 UI/UX Design
+
+✨ Clean interfaces  
+✨ Responsive layouts  
+✨ Wireframing  
+✨ Prototyping  
+✨ Design systems  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Development
+
+💻 Responsive websites  
+💻 Interactive interfaces  
+💻 User-centered experiences  
+💻 Frontend development  
+💻 Design-to-code  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 Currently
+
+<div align="center">
+
+| 🌷 Area | 🚀 Status |
+|:---|:---|
+| 🎨 UI/UX Design | 🌱 Learning & Creating |
+| 🌐 Web Development | 🚀 Building Projects |
+| 💻 Programming | 📚 Strengthening Skills |
+| 🔬 Emerging Technologies | 🔍 Exploring |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<p>
+Feel free to reach out for collaborations, opportunities,
+or just a chat about tech and design! 💗
+</p>
+
+<br>
 
 <a href="https://linkedin.com/in/sharanya-sasmal">
 <img src="https://img.shields.io/badge/LinkedIn-Sharanya%20Sasmal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -185,11 +260,7 @@ Feel free to reach out for collaborations, opportunities, or just a chat about t
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### 💖 Thanks for stopping by!
 
