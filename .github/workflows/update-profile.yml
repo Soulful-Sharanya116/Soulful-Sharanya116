@@ -3,22 +3,22 @@ name: Update README Cards
 on:
   schedule:
     - cron: "0 3 * * *"
-
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
+
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=8b5cf6&text_color=ffffff&bg_color=0d1117
@@ -26,14 +26,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=radical&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=0d1117
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Streak Stats
+      - name: Generate Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=${{ github.repository_owner }}&theme=radical&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakNum=ffffff&sideNums=8b5cf6&currStreakLabel=ff69b4&sideLabels=ffffff&dates=8b5cf6&disable_animations=true
