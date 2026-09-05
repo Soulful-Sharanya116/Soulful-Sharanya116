@@ -111,7 +111,10 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soulful-sharanya116&bg_color=0d1117&color=ffffff&line=ff69b4&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img
+    src="https://raw.githubusercontent.com/Soulful-Sharanya116/Soulful-Sharanya116/output/activity-graph.svg"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
