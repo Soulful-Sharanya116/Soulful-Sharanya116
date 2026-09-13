@@ -2,6 +2,9 @@
 
 <img src="./github-banner.png" alt="Sharanya Sasmal" width="100%"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<br><br>
+
 <br><br>
 
 # 👋 Hi there! I'm <span style="color:#ff69b4;">Sharanya</span>
